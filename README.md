@@ -1,11 +1,23 @@
-🎓 Concluindo curso técnico em **Eletromecânica**  
-💻 Experiência com **Arduino (C)** e **SystemVerilog**  
-⚡ Interesse em **automação, sistemas embarcados e eletrônica digital**  
-🎮 Nas horas vagas: gosto de explorar tecnologia e me divertir com hobbies criativos  
+<h1 align="center">👋 Olá, eu sou o Rafael Tarcisio</h1>
+<p align="center">
+  Técnico em Eletromecânica • Arduino (C) • SystemVerilog • Eletrônica & Sistemas Embarcados
+</p>
 
 ---
 
-### 🚀 Tecnologias e Ferramentas:
+### 🌐 Onde me encontrar
+<p>
+  <a href="https://instagram.com/rafael_tarcisio23" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+</a>
+  <a href="mailto:rafael.tarcisio001@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+### 🚀 Tecnologias e Ferramentas
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![SystemVerilog](https://img.shields.io/badge/SystemVerilog-FF6600?style=for-the-badge&logo=verilog&logoColor=white)
@@ -13,9 +25,16 @@
 
 ---
 
-### 📊 Minhas estatísticas:
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight)
+### 📊 Estatísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🐍 Minhas contribuições
+![Snake animation](https://github.com/Rafael-Tarcisio/Rafael-Tarcisio/blob/output/github-contribution-grid-snake.svg)
 
 ---
 
