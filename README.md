@@ -9,9 +9,6 @@
 <p>
   <a href="https://instagram.com/rafael_tarcisio23" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
-  <a href="mailto:rafael.tarcisio001@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
 
@@ -33,9 +30,4 @@
 
 ---
 
-### 🐍 Minhas contribuições
-![Snake animation](https://github.com/Rafael-Tarcisio/Rafael-Tarcisio/blob/output/github-contribution-grid-snake.svg)
-
----
-
-✨ Sempre aprendendo, testando ideias e criando projetos!
+Sempre aprendendo, testando ideias e criando projetos!🚀
