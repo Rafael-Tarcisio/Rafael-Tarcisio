@@ -28,12 +28,4 @@
 
 ---
 
-## 📊 Estatísticas
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=21600)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=21600)
-
----
-
 Sempre aprendendo, testando ideias e criando projetos 🚀
