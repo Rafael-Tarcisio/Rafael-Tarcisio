@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.png" alt="Banner Rafael Tarcisio">
+  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Banner.png">
 </p>
 
 <h1 align="center">⚡ Rafael Tarcisio</h1>
@@ -26,7 +26,7 @@ Atualmente estudo e desenvolvo projetos envolvendo:
 * 🔌 Arduino e Microcontroladores
 * 💻 Linguagem C
 * 🚀 FPGA e SystemVerilog
-* 🚗 EVSE
+* 🚗 EVSE e Wallbox
 
 Gosto de transformar teoria em projetos reais.
 
@@ -51,7 +51,7 @@ Gosto de transformar teoria em projetos reais.
 ## 🚀 Tecnologias
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+  <img src="https://skillicons.dev/icons?i=c,github,vscode" />
 </p>
 
 <p align="center">
@@ -70,30 +70,34 @@ Gosto de transformar teoria em projetos reais.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&v=1"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&v=1"/>
 
 </p>
 
 ---
 
-## 🤖 Projeto em Destaque
+## 🤖 Projetos em Destaque
 
 ### Robô Seguidor de Linha
 
 <p align="center">
-  <img src="./assets/robo.jpg" width="700">
+  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Robo.png" width="700">
 </p>
 
 Projeto desenvolvido utilizando Arduino Uno, sensores IR, sensor ultrassônico e ponte H.
 
+### Garra controlada por Giroscópio
+
+<p align="center">
+  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Garra.png" width="700">
+</p>
+
+Projeto desenvolvido utilizando Arduino Uno, Giroscópio e servo motores
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Rafael-Tarcisio&color=blueviolet">
-</p>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FF88&height=120&section=footer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FF88&height=150&section=footer"/>
 </p>
