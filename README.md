@@ -55,6 +55,8 @@ Transformando ideias em circuitos, código e automação.
 ## 📊 GitHub Stats
 
 <p align="center">
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
 
