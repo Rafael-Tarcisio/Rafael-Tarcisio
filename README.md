@@ -79,7 +79,7 @@ Gosto de transformar teoria em projetos reais.
 ### Robô Seguidor de Linha
 
 <p align="center">
-  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Robo.png" width="700">
+  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Robo.png" width="300">
 </p>
 
 Projeto desenvolvido utilizando Arduino Uno, sensores IR, sensor ultrassônico e ponte H.
@@ -87,7 +87,7 @@ Projeto desenvolvido utilizando Arduino Uno, sensores IR, sensor ultrassônico e
 ### Garra controlada por Giroscópio
 
 <p align="center">
-  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Garra.png" width="700">
+  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Garra.png" width="300">
 </p>
 
 Projeto desenvolvido utilizando Arduino Uno, Giroscópio e servo motores
