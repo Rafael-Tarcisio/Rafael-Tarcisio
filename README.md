@@ -68,7 +68,7 @@ Gosto de transformar teoria em projetos reais.
 
 <img height="170" src="https://readmedados.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://readmedados.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats&hide=javascript&exclude_repo=github-readme-stats&hide=shell"/>
+<img height="170" src="https://readmedados.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&exclude_repo=github-readme-stats&hide=javascript&shell"/>
 
 </p>
 
