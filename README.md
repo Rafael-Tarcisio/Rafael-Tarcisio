@@ -5,7 +5,7 @@
 <h1 align="center">⚡ Rafael Tarcisio</h1>
 
 <h3 align="center">
-Técnico em Eletromecânica • Maker • Sistemas Embarcados • FPGA
+Técnico em Eletromecânica • Estudante de Engenharia Elétrica • Maker • Sistemas Embarcados • FPGA
 </h3>
 
 <p align="center">
@@ -46,7 +46,7 @@ Transformando ideias em circuitos, código e automação.
 
 <p align="center">
 
-<img src="https://skillicons.dev/icons?i=c,arduino,git,github,vscode"/>
+<img src="https://skillicons.dev/icons?i=c,arduino,github,vscode"/>
 
 </p>
 
@@ -56,9 +56,9 @@ Transformando ideias em circuitos, código e automação.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -77,6 +77,10 @@ Projetos envolvendo eletrônica analógica, digital e automação.
 ### ⚙️ FPGA e SystemVerilog
 
 Desenvolvimento de lógica digital, RTL e arquitetura de hardware.
+
+### EVSE e Recuperação de Wallbox
+
+Manutenção de Wallbox e recuperação. 
 
 ---
 
