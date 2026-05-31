@@ -58,10 +58,6 @@ Transformando ideias em circuitos, código e automação.
   
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight"/>
-
 </p>
 
 ---
@@ -83,14 +79,6 @@ Desenvolvimento de lógica digital, RTL e arquitetura de hardware.
 ### EVSE e Recuperação de Wallbox
 
 Manutenção de Wallbox e recuperação. 
-
----
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Rafael-Tarcisio&theme=tokyonight&row=1&column=7"/>
-
-</p>
 
 ---
 
