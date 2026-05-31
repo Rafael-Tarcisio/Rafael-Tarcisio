@@ -5,10 +5,6 @@
 <h1 align="center">⚡ Rafael Tarcisio</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Técnico+em+Eletromecânica;Maker+e+Desenvolvedor;Arduino+C+e+SystemVerilog;Sistemas+Embarcados+e+FPGA" />
-</p>
-
-<p align="center">
 Transformando ideias em circuitos, código e automação.
 </p>
 
@@ -70,9 +66,9 @@ Gosto de transformar teoria em projetos reais.
 
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&v=1"/>
+<img height="170" src="https://readmedados.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&v=1"/>
+<img height="170" src="https://readmedados.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight&v=1"/>
 
 </p>
 
