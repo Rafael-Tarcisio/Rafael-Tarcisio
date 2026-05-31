@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/Rafael-Tarcisio/assets/blob/main/Banner.png" width="100%">
+  <img src="./assets/banner.png" alt="Banner Rafael Tarcisio">
 </p>
 
 <h1 align="center">⚡ Rafael Tarcisio</h1>
 
-<h3 align="center">
-Técnico em Eletromecânica • Estudante de Engenharia Elétrica • Maker • Sistemas Embarcados • FPGA
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Técnico+em+Eletromecânica;Maker+e+Desenvolvedor;Arduino+C+e+SystemVerilog;Sistemas+Embarcados+e+FPGA" />
+</p>
 
 <p align="center">
 Transformando ideias em circuitos, código e automação.
@@ -16,19 +16,25 @@ Transformando ideias em circuitos, código e automação.
 
 ## 👨‍💻 Sobre Mim
 
-🔧 Apaixonado por eletrônica, automação e sistemas embarcados.
+Sou técnico em Eletromecânica e estudante de Engenharia Elétrica apaixonado por eletrônica, automação e desenvolvimento de hardware.
 
-🚀 Desenvolvo projetos utilizando Arduino, C e SystemVerilog.
+Atualmente estudo e desenvolvo projetos envolvendo:
 
-⚙️ Tenho interesse em robótica, FPGA, IoT e desenvolvimento de hardware.
+* 🔧 Eletrônica Analógica e Digital
+* 🤖 Robótica
+* ⚙️ Sistemas Embarcados
+* 🔌 Arduino e Microcontroladores
+* 💻 Linguagem C
+* 🚀 FPGA e SystemVerilog
+* 🚗 EVSE
 
-💡 Acredito que a melhor forma de aprender engenharia é construir.
+Gosto de transformar teoria em projetos reais.
 
 ---
 
-## 🌎 Contato
+## 🌐 Contato
 
-<p align="left">
+<p align="center">
 
 <a href="mailto:rafael.tarcisio001@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
@@ -45,43 +51,49 @@ Transformando ideias em circuitos, código e automação.
 ## 🚀 Tecnologias
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=c,git,github,vscode" />
+</p>
 
-<img src="https://skillicons.dev/icons?i=c,arduino,github,vscode"/>
+<p align="center">
+
+<img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
+
+<img src="https://img.shields.io/badge/SystemVerilog-FF6600?style=for-the-badge">
+
+<img src="https://img.shields.io/badge/FPGA-00599C?style=for-the-badge">
 
 </p>
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Estatísticas
 
 <p align="center">
-  
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rafael-Tarcisio&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rafael-Tarcisio&layout=compact&theme=tokyonight"/>
 
 </p>
 
 ---
 
-## 🏆 Projetos em Destaque
+## 🤖 Projeto em Destaque
 
-### 🤖 Robô Seguidor de Linha
+### Robô Seguidor de Linha
 
-Sistema autônomo utilizando Arduino, sensores IR e sensor ultrassônico.
+<p align="center">
+  <img src="./assets/robo.jpg" width="700">
+</p>
 
-### 🔌 Circuitos Eletrônicos
-
-Projetos envolvendo eletrônica analógica, digital e automação.
-
-### ⚙️ FPGA e SystemVerilog
-
-Desenvolvimento de lógica digital, RTL e arquitetura de hardware.
-
-### EVSE e Recuperação de Wallbox
-
-Manutenção de Wallbox e recuperação. 
+Projeto desenvolvido utilizando Arduino Uno, sensores IR, sensor ultrassônico e ponte H.
 
 ---
 
 <p align="center">
-⚡ "Projetar. Testar. Evoluir."
+  <img src="https://komarev.com/ghpvc/?username=Rafael-Tarcisio&color=blueviolet">
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:00FF88&height=120&section=footer"/>
 </p>
