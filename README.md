@@ -12,7 +12,7 @@ Transformando ideias em circuitos, código e automação.
 
 ## 👨‍💻 Sobre Mim
 
-Sou técnico em Eletromecânica e estudante de Engenharia Elétrica apaixonado por eletrônica, automação e desenvolvimento de hardware.
+Sou técnico em Eletromecânica pelo IFRN e estudante de Engenharia Elétrica na UFRN apaixonado por eletrônica, automação e desenvolvimento de hardware, ex-membro do laboratório Potimaker do IFRN - Campus Canguaretama.
 
 Atualmente estudo e desenvolvo projetos envolvendo:
 
